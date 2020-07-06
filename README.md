@@ -22,7 +22,7 @@ We are trying our best to support the Windows build of the SDS. We are confident
 Synthetic data is very similar to the original real data in that it has the same categories and data types, but contains completely made up people/objects in the data. High quality synthetic data has the additional need to be statistically similar to the real data as well.
 
 ### What does it do?
-The current system is designed to handle large amounts of data with minimal input from you so that you can synthesise complex data quickly! It's designed around a mixture of traditional probability sampling, machine learning and differential privacy methods.
+The current system is designed to handle large amounts of data with minimal input from you so that you can synthesise complex data quickly! It's designed around a mixture of traditional probability sampling, machine learning and noise injection safety methods.
 
   - Uses GPUs for massive speed boost for Decision Tree fitting
   - Automatically handles missing data

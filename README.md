@@ -10,6 +10,8 @@ Thank you for your interest in the synthetic data system! It's currently in Alph
 
 The system was built around medical data and hence may not be suitable for all your needs, if you've small data or data with few categories then I would highly recommend looking at alternative synthetic methods - e.g. SMOTE. We wanted to release the system for transparency, feedback and that it might help people with data science as the methods used should translate to non-medical data.
 
+##### Important research update: This system DOES NOT build in Differential Privacy - see Cautions and Notes Section
+
 ### Access needs
 If you have any access needs (such as large print), please don't hesitate to contact me!
 
@@ -58,7 +60,7 @@ If you do use this system or talk about it then please cite it as:
 
 **NHS NSS and Public Health Scotland are in no way responsible for your use of this system, any action or consequences that arise from the use of this system, it's download or your interaction with it.**
 
-**While the system code/documentation has statements that it builds in Differential Privacy, after research and advice this is not the case. Future updates will, therefore, remove all mentions of differential privacy - in line with openess/research good practises. To clarifiy again, the system DOES NOT build in differential privacy **
+**While the system code/documentation has statements that it builds in Differential Privacy, after research and advice this is not the case. Future updates will, therefore, remove all mentions of differential privacy - in line with openess/research good practises. To clarifiy again, the system DOES NOT build in differential privacy.**
 
-**The author has no control over the release of the synthetic medical data itself and does not have the authority to influence the release process in anyway. As such, the author requests that you do not ask questions around this topic. Any comments, feedback or suggestions are more than welcome, as are any discussions on data, but the author cannot comment on or influence the release of the synthetic medical data itself. **
+**The author has no control over the release of the synthetic medical data itself and does not have the authority to influence the release process in anyway. As such, the author requests that you do not ask questions around this topic. Any comments, feedback or suggestions are more than welcome, as are any discussions on data, but the author cannot comment on or influence the release of the synthetic medical data itself.**
  - - -

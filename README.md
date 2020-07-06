@@ -60,5 +60,5 @@ If you do use this system or talk about it then please cite it as:
 
 **While the system code/documentation has statements that it builds in Differential Privacy, after research and advice this is not the case. Future updates will, therefore, remove all mentions of differential privacy - in line with openess/research good practises. To clarifiy again, the system DOES NOT build in differential privacy **
 
-**The author has no control over the release of the synthetic medical data itself and does not have the authority to influence the release process in anyway. As such, the author requests that you do not ask questions around this topic. Any comments, feedback or suggestions are more than welcome, as are any discussions on data, but the author cannot comment on or influence the release of the synthetic medical data itself.**
+**The author has no control over the release of the synthetic medical data itself and does not have the authority to influence the release process in anyway. As such, the author requests that you do not ask questions around this topic. Any comments, feedback or suggestions are more than welcome, as are any discussions on data, but the author cannot comment on or influence the release of the synthetic medical data itself. **
  - - -

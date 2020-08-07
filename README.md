@@ -33,7 +33,6 @@ The current system is designed to handle large amounts of data with minimal inpu
   - Performs iterative synthesis
   - Cluster numeric data using Gaussian Mixture Models (GMM) to make synthesis easier
   - Uses probability sampling to handle demographic variables
-  - Fits and returns data from Random Forest models
   - All parameters fully customisable but default parameters built in for ease of use
 
 ###### This system DOES NOT build in Differential Privacy - see Cautions and Notes Section
